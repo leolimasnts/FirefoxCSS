@@ -1,0 +1,124 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@450&display=swap");
+
+#root.root {
+  --ntb-border-radius: 8px;
+}
+#root.root {
+  --notification-border-radius: 5px;
+}
+#root.root {
+  --tabs-margin: 10px;
+}
+#root.root {
+  --toolbar-bg: rgb(21, 21, 21);
+}
+#root.root {
+  --history-item-margin: 10px;
+}
+#root.root {
+  --bookmarks-inner-gap: 10px;
+}
+#root.root {
+  --bookmarks-bookmark-height: 40px;
+}
+#root.root {
+  --bookmarks-margin: 10px;
+}
+#root.root {
+  --bookmarks-border-radius: 8px;
+}
+#root.root {
+  --bookmarks-folder-font: 0.9rem inter;
+}
+#root.root {
+  --bookmarks-bookmark-font: 0.8rem inter;
+}
+#root.root {
+  --tabs-inner-gap: 10px;
+}
+#root.root {
+  --history-item-border-radius: 8px;
+}
+#root.root {
+  --active-el-shadow: 0 1px 20px -1px rgba(0, 0, 0, 0.882);
+}
+#root.root {
+  --search-shadow: 0 1px 20px -1px rgba(0, 0, 0, 0.882);
+}
+#root.root {
+  --ctx-menu-shadow: 0 1px 20px -1px rgba(0, 0, 0, 0.882);
+}
+#root.root {
+  --popup-shadow: 0 1px 20px -1px rgba(0, 0, 0, 0.882);
+}
+#root.root {
+  --tabs-activated-shadow: 0px 4px 15px 5px #00000050;
+}
+#root.root {
+  --frame-el-bg: rgb(21, 21, 21);
+}
+#root.root {
+  --nav-btn-active-shadow: 0 1px 20px -1px rgba(0, 0, 0, 0.882);
+}
+#root.root {
+  --frame-el-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.133);
+}
+#root.root {
+  --tabs-normal-bg: rgb(21, 21, 21);
+}
+#root.root {
+  --tabs-height: 40px;
+}
+#root.root {
+  --tabs-count-font: 0.5625rem inter;
+}
+#root.root {
+  --tabs-border-radius: 8px;
+}
+#root.root {
+  --tabs-audio-btn-width: 25px;
+}
+#root.root {
+  --tabs-progress-bg: rgba(255, 255, 255, 1);
+}
+#root.root {
+  --tabs-activated-bg: rgb(40, 40, 40);
+}
+#root.root {
+  --tabs-activated-fg: rgb(210, 210, 210);
+}
+#root.root {
+  --tabs-font: 0.9rem inter;
+}
+#root.root {
+  --ntb-border-radius: 8px;
+}
+#root.root {
+  --ntb-btn-height: 40px;
+}
+#root.root {
+  --ntb-bg: rgb(21, 21, 21);
+}
+#root.root {
+  --ntb-padding: 5px;
+}
+.new-tab-btn {
+  margin: 5px;
+}
+.group > .SubListTitle {
+  height: 40px;
+  border-radius: 8px;
+  padding: 3px 1px 3px 3px;
+  margin: 0px 0px 15px 0px;
+}
+.group > .SubListTitle > .body {
+  height: 40px;
+  box-shadow: 0 1px 20px -1px rgba(0, 0, 0, 0.882);
+  border-radius: 8px;
+  margin: 0px 0px 15px 0px;
+}
+.group > .SubListTitle > .body::before {
+  height: 40px;
+  border-radius: 8px;
+  margin: 0px 0px 15px 0px;
+}
